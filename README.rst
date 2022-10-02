@@ -5,6 +5,8 @@ Django Debug Panel
 Django Debug Toolbar inside WebKit DevTools. Works fine with background AJAX requests and non-HTML responses.
 Great for single-page applications and other AJAX intensive web applications.
 
+PROJECT WAS FORKED to make compatible with Django4
+
 Installation
 ============
 
